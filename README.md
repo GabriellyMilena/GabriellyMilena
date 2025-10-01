@@ -42,8 +42,8 @@
   <a href="https://www.linkedin.com/in/gabrielly-milena-2b3a49366/" target="_blank">
     <img align="center" alt="LinkedIn" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
   </a>
-  <a href="https://www.instagram.com/gabx.mr/" target="_blank">
-    <img align="center" alt="Instagram" height="40" width="40" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/instagram.svg" />
-  </a>
-</div>
+ <a href="https://www.instagram.com/gabx.mr/" target="_blank">
+  <img align="center" alt="Instagram" height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" />
+</a>
+
 
