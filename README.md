@@ -4,11 +4,9 @@
 
 ### 📊 Minhas Estatísticas no GitHub
 <div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabriellyMilena&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabriellyMilena&layout=compact&langs_count=7&theme=radical"/>
 </div>
-
-![GitHub Streak](https://streak-stats.demolab.com?user=GabriellyMilena&theme=radical&hide_border=true)
 
 ---
 
@@ -44,4 +42,5 @@
 - Me aprofundar em **Java**, **JavaScript** e **IA**
 - Contribuir em projetos **open source**
 - Conseguir minha primeira oportunidade como **programadora**
+
 
