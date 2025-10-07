@@ -3,47 +3,38 @@
 ---
 
 ### 📊 Minhas Estatísticas no GitHub
-<div>
+<div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabriellyMilena&layout=compact&langs_count=7&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabriellyMilena&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
 </div>
 
 ---
 
-### Tecnologias que eu utilizo
+### 💻 Tecnologias que eu utilizo
 <div style="display: inline_block"><br>
   <img align="center" alt="C" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
   <img align="center" alt="Java" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
   <img align="center" alt="JavaScript" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-  <img align="center" alt="IA" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg">
+  <img align="center" alt="HTML" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+  <img align="center" alt="TensorFlow" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg">
 </div>
 
 ---
 
-### Sobre mim
-- Estudante de programação
-- Experiência em **Java** e **C**
-- Atualmente aprendendo **JavaScript**
-- Interessada em **Inteligência Artificial**
-- Quero seguir carreira na área de **back-end** e **IA**
-- Gosto de aprender coisas novas e compartilhar conhecimento
+### 👩‍💻 Sobre mim
+- 🎓 Estudante de **Engenharia da Computação**
+- 💡 Experiência com **Java** e **C**
+- 🚀 Atualmente aprendendo **JavaScript**, **HTML** e **CSS**
+- 🤖 Interessada em **Inteligência Artificial** e **Back-end**
+- 🧠 Foco em aprendizado contínuo e compartilhamento de conhecimento
 
 ---
 
-### O que estou aprendendo atualmente
-- Estruturas de dados e algoritmos
-- JavaScript para desenvolvimento web
-- Fundamentos de **IA e Machine Learning**
-- Boas práticas de programação
+### 📚 O que estou aprendendo atualmente
+- Estruturas de dados e algoritmos  
+- Desenvolvimento web com JavaScript  
+- Fundamentos de **IA e Machine Learning**  
+- Boas práticas de programação  
 
 ---
-
-### 🌐 Minhas Redes Sociais
-<div>
-  <a href="https://www.linkedin.com/in/gabrielly-milena-2b3a49366/" target="_blank">
-    <img align="center" alt="LinkedIn" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
-  </a>
- <a href="https://www.instagram.com/gabx.mr/" target="_blank">
-  <img align="center" alt="Instagram" height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" />
-</a>
-
-
