@@ -1,7 +1,3 @@
-# Oiii! Eu sou a Gabrielly Milena 👋
-
----
-
 ### 📊 Minhas Estatísticas no GitHub
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabriellyMilena&layout=compact&langs_count=7&theme=radical"/>
