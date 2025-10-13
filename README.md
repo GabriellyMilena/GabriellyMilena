@@ -28,7 +28,6 @@
 ---
 
 ### 📚 O que estou aprendendo atualmente
-- Estruturas de dados e algoritmos  
 - Desenvolvimento web com JavaScript  
 - Fundamentos de **IA e Machine Learning**  
 - Boas práticas de programação  
