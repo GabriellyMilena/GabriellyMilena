@@ -22,14 +22,13 @@
 - 🎓 Estudante de **Engenharia da Computação**
 - 💡 Experiência com **Java** e **C**
 - 🚀 Atualmente aprendendo **JavaScript**, **HTML** e **CSS**
-- 🤖 Interessada em **Inteligência Artificial** e **Back-end**
+- 🤖 Interessada em **Back-end**
 - 🧠 Foco em aprendizado contínuo e compartilhamento de conhecimento
 
 ---
 
 ### 📚 O que estou aprendendo atualmente
 - Desenvolvimento web com JavaScript  
-- Fundamentos de **IA e Machine Learning**  
 - Boas práticas de programação  
 
 ---
