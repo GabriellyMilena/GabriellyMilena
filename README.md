@@ -1,27 +1,28 @@
-
-### 💻 Tecnologias que eu utilizo
-<div style="display: inline_block"><br>
-  <img align="center" alt="C" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
-  <img align="center" alt="Java" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
-  <img align="center" alt="JavaScript" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-  <img align="center" alt="HTML" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
-
+<div align="center">
+  <h3>💻 Tecnologias</h3>
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
 </div>
+
 
 ---
 
 ### 👩‍💻 Sobre mim
-- 🎓 Estudante de **Engenharia da Computação**
-- 💡 Experiência com **Java** e **C**
-- 🚀 Atualmente aprendendo **JavaScript**, **HTML** e **CSS**
-- 🤖 Interessada em **Back-end**
-- 🧠 Foco em aprendizado contínuo e compartilhamento de conhecimento
+- Formação em Engenharia da Computação com foco em back-end.
+- Experiência em Java e C, com expansão estratégica para o ecossistema web.
+- Atuação orientada a boas práticas, versionamento e engenharia de software.
+- Visão de longo prazo para desenvolvimento back-end de alta performance.
 
 ---
 
-### 📚 O que estou aprendendo atualmente
-- Desenvolvimento web com JavaScript  
-- Boas práticas de programação  
+<div style="border: 1px solid #d3d3d3; border-radius: 10px; padding: 15px; margin-top: 10px;">
+  <h3>📚 O que estou aprendendo</h3>
+  <ul>
+    <li>Desenvolvimento web com JavaScript</li>
+    <li>Boas práticas de programação</li>
+  </ul>
+</div>
 
----
