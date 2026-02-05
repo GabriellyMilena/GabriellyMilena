@@ -21,7 +21,6 @@
 <div style="border: 1px solid #d3d3d3; border-radius: 10px; padding: 15px; margin-top: 10px;">
   <h3>📚 O que estou aprendendo</h3>
   <ul>
-    <li>Desenvolvimento web com JavaScript</li>
     <li>Boas práticas de programação</li>
   </ul>
 </div>
