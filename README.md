@@ -11,17 +11,19 @@
 ---
 
 ### 👩‍💻 Sobre mim
-- Formação em Engenharia da Computação com foco em back-end.
-- Experiência em Java e C, com expansão estratégica para o ecossistema web.
-- Atuação orientada a boas práticas, versionamento e engenharia de software.
-- Visão de longo prazo para desenvolvimento back-end de alta performance.
+- Estudante de Engenharia da Computação com foco em desenvolvimento back-end.
+- Experiência acadêmica em C e Java, aplicando boas práticas, versionamento (Git) e fundamentos de engenharia de software.
 
 ---
 
 <div style="border: 1px solid #d3d3d3; border-radius: 10px; padding: 15px; margin-top: 10px;">
   <h3>📚 O que estou aprendendo</h3>
-  <ul>
-    <li>Boas práticas de programação</li>
-  </ul>
+<ul>
+  <li>Java (POO, fundamentos e aplicações back-end)</li>
+  <li>C (lógica, estruturas e fundamentos de sistemas)</li>
+  <li>Boas práticas de programação</li>
+  <li>Versionamento com Git</li>
+  <li>Fundamentos de Engenharia de Software</li>
+  <li>Organização e planejamento de projetos de software</li>
+</ul>
 </div>
-
